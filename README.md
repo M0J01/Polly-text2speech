@@ -4,6 +4,8 @@ This project uses Python 3.6, Amazon Poly, and the AWS CLI in order to parse a t
 
 Amazon Polly is a web service that provides text-2-speech services.
 
+**Note** This project would require serious work to be anywhere near usable for commercial purposes.
+
 
 ## Requirements
 * Amazon Web Services Account
